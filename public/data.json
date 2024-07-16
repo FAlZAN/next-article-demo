@@ -1,0 +1,1001 @@
+[
+  {
+    "_id": "65b010889fec13dbef6a0af1",
+    "id": "0ca2bf87-1b74-400a-bc4f-a85bbcd80943",
+    "category": "men",
+    "product_type": "shirt",
+    "title": "Loose Fit Overshirt",
+    "description_fit": {
+      "description": "Overshirt in woven fabric with a brushed finish. Loose fit with a collar, buttons down the front and a yoke at the back. Gently dropped shoulders, long sleeves with buttoned cuffs and open chest pockets. Gently rounded hem. Lined.",
+      "size": {
+        "XS": {
+          "Width": "1.04 m",
+          "Length": "71 cm"
+        },
+        "S": {
+          "Width": "1.12 m",
+          "Length": "73 cm"
+        },
+        "M": {
+          "Width": "1.20 m",
+          "Length": "75 cm"
+        },
+        "L": {
+          "Width": "1.28 m",
+          "Length": "77 cm"
+        },
+        "XL": {
+          "Width": "1.36 m",
+          "Length": "78 cm"
+        },
+        "XXL": {
+          "Width": "1.44 m",
+          "Length": "79 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Loose fit",
+      "neckline": "Turn-down collar"
+    },
+    "color": "Dark grey",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F84%2Fc3%2F84c3348f947d9f1a49c50cdb41ba601b3a6afa65.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F47%2F0a%2F470a6551e8697920f894e7bdb23b4eeb4686c4c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff9%2Fb6%2Ff9b6ee02d6d13ec026994a5072c442d71ced31f2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F58%2F92%2F5892253c052ac809c5c6b41065cd305a03263da4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5e%2F92%2F5e9259fe5de52147abfebe4b6a2651cc4d51b81d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F07%2Fa7%2F07a7aa3893c9828dca2f69d7b2b55967baf78cda.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 2999
+  },
+  {
+    "_id": "65b010889fec13dbef6a0aed",
+    "id": "42dca9a7-1396-4a4b-b573-54d06ad62bc9",
+    "category": "men",
+    "product_type": "tshirt",
+    "title": "Regular Fit T-shirt",
+    "description_fit": {
+      "description": "T-shirt in lightweight cotton jersey with a round, rib-trimmed neckline and a straight-cut hem. Regular fit for comfortable wear and a classic silhouette.",
+      "size": {
+        "XS": {
+          "Width": "94 cm",
+          "Length": "67 cm"
+        },
+        "S": {
+          "Width": "1.02 m",
+          "Length": "69 cm"
+        },
+        "M": {
+          "Width": "1.10 m",
+          "Length": "70 cm"
+        },
+        "L": {
+          "Width": "1.18 m",
+          "Length": "72 cm"
+        },
+        "XL": {
+          "Width": "1.26 m",
+          "Length": "73 cm"
+        },
+        "XXL": {
+          "Width": "1.34 m",
+          "Length": "74 cm"
+        }
+      },
+      "sleevelength": "Short sleeve",
+      "fit": "Regular fit",
+      "neckline": "Round neck"
+    },
+    "color": "Black",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6d%2Fa6%2F6da6060b8ec7e95d5f58ab2d046d66cc2481c3b5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4c%2Fdc%2F4cdc0a44bb5408267a4bfbbfd51ca9719a4fcf97.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe8%2F07%2Fe807eb07b88cf52369c7f29208b606b2c28e52c1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff4%2Fcf%2Ff4cfff266bb276da87c0addb319d115bdadf614e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4e%2F69%2F4e69d4d6f13bba1c971789d183ef946a2766292c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Feb%2F7b%2Feb7b71f5367286e4a5b1bb690098491aeec29816.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 399
+  },
+  {
+    "_id": "65b010889fec13dbef6a0aee",
+    "id": "5873c0f5-c880-4648-9339-d688042e145a",
+    "category": "men",
+    "product_type": "tshirt",
+    "title": "Regular Fit T-shirt",
+    "description_fit": {
+      "description": "T-shirt in lightweight cotton jersey with a round, rib-trimmed neckline and a straight-cut hem. Regular fit for comfortable wear and a classic silhouette.",
+      "size": {
+        "XS": {
+          "Width": "94 cm",
+          "Length": "67 cm"
+        },
+        "S": {
+          "Width": "1.02 m",
+          "Length": "69 cm"
+        },
+        "M": {
+          "Width": "1.10 m",
+          "Length": "70 cm"
+        },
+        "L": {
+          "Width": "1.18 m",
+          "Length": "72 cm"
+        },
+        "XL": {
+          "Width": "1.26 m",
+          "Length": "73 cm"
+        },
+        "XXL": {
+          "Width": "1.34 m",
+          "Length": "74 cm"
+        }
+      },
+      "sleevelength": "Short sleeve",
+      "fit": "Regular fit",
+      "neckline": "Round neck"
+    },
+    "color": "White",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb4%2F2f%2Fb42f8aa4f6b4ba829cca3465b795889d9d0db483.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F64%2F01%2F640196974b2fd2262432bb92b902001fbd44af05.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F33%2F58%2F33583fb672e0513a433afd3c13174ee4049f8c05.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F86%2F84%2F8684d822db0fa894bd1ef9bc385fb7dfce447808.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F35%2Fbb%2F35bb2bdd8c542c7f0dcda72750f0c32ba20b7040.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa2%2F1f%2Fa21ffe33363d9522ef64793047f3f888190d6c0d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F26%2F24%2F2624b1daba2fa589ce8f3bf8bf7832d25f0ffec9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 399
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af2",
+    "id": "5ee5a78f-bfe9-4e72-a506-6a89c69ce6dc",
+    "category": "men",
+    "product_type": "sweater",
+    "title": "Slim Fit Fine-knit polo-neck jumper",
+    "description_fit": {
+      "description": "Jumper in soft, fine-knit cotton with a ribbed polo neck, long sleeves and ribbing at the cuffs and hem.",
+      "size": {
+        "XS": {
+          "Width": "88 cm",
+          "Length": "66 cm"
+        },
+        "S": {
+          "Width": "96 cm",
+          "Length": "68 cm"
+        },
+        "M": {
+          "Width": "1.04 m",
+          "Length": " 69 cm"
+        },
+        "L": {
+          "Width": "1.12 m",
+          "Length": " 71 cm"
+        },
+        "XL": {
+          "Width": "1.20 m",
+          "Length": " 72 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Slim fit",
+      "neckline": "Polo-neck"
+    },
+    "color": "Black",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F56%2F37%2F56377ee4d2d3d860f5bf1cb946e4108f013e7e30.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_turtleneck%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F34%2Fcd%2F34cd05c562b6e00ae3e353cc3e7ee1fd11c8eff1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_turtleneck%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc7%2F3f%2Fc73f6653a74fe5b70b22a9598d6bfb03e80ed76c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_turtleneck%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8e%2Fa3%2F8ea3a8014fef2acb9eaf16a3478b49b71205a06d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_turtleneck%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff3%2F2e%2Ff32ecb74873801a18586e050a3b5565d24627403.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_turtleneck%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F31%2F63%2F3163eca5a38f12d9821a1a170434f23c6a7b76b5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_turtleneck%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4f%2F10%2F4f10d2320711e9c015932929bd77aeb800758415.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_turtleneck%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1499
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af7",
+    "id": "b0940d76-d046-4452-a4ee-9821678a9393",
+    "category": "women",
+    "product_type": "tshirt",
+    "title": "Oversized T-shirt",
+    "description_fit": {
+      "description": "Oversized T-shirt in soft cotton jersey with a rib-trimmed neckline and low dropped shoulders.",
+      "size": {
+        "XXS": {
+          "Width": "1.06 m",
+          "Length": "71 cm"
+        },
+        "XS": {
+          "Width": "1.10 m",
+          "Length": "72 cm"
+        },
+        "S": {
+          "Width": "1.10 m",
+          "Length": "72 cm"
+        },
+        "M": {
+          "Width": "1.18 m",
+          "Length": "74 cm"
+        },
+        "L": {
+          "Width": "1.28 m",
+          "Length": "77 cm"
+        },
+        "XL": {
+          "Width": "1.34 m",
+          "Length": "78 cm"
+        },
+        "XXL": {
+          "Width": "1.40 m",
+          "Length": "80 cm"
+        }
+      },
+      "sleevelength": "Short sleeve",
+      "fit": "Oversized",
+      "neckline": "Round neck"
+    },
+    "color": "Black",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2a%2F7e%2F2a7e4c8d4ce213db442da52c611c45e73b4dc7a7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdc%2Ffd%2Fdcfdf9b7f7281c0b05a8548a57911b4ee788c5c2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe2%2F30%2Fe230d80cfe7f688331bfb3698043538362455d34.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F09%2Fdf%2F09df7e8709376147565b48d32876fb482937e9f8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7a%2F34%2F7a349f28b7f9bde995764b04e24ca4294f0be6c9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 699
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af9",
+    "id": "e1596152-412a-41b4-9378-a2074c3f6ed8",
+    "category": "women",
+    "product_type": "sweater",
+    "title": "Zip-top sweatshirt",
+    "description_fit": {
+      "description": "Loose-fit top in sweatshirt fabric with an embroidered text motif on the chest and a soft brushed inside. High, double-layered collar, a zip at the top, dropped shoulders and long sleeves. Ribbing at the cuffs and hem.",
+      "size": {
+        "XS": {
+          "Width": "99 cm",
+          "Length": "56 cm"
+        },
+        "S": {
+          "Width": "1.07 m",
+          "Length": "57 cm"
+        },
+        "M": {
+          "Width": "1.15 m",
+          "Length": "59 cm"
+        },
+        "L": {
+          "Width": "1.23 m",
+          "Length": "60 cm"
+        },
+        "XL": {
+          "Width": "1.35 m",
+          "Length": "62 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Loose fit",
+      "neckline": "Stand-up collar"
+    },
+    "color": "Light grey marl/New York",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7b%2F34%2F7b346655871aa968a729c95a8d90c8b86195f73f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F40%2F60%2F40607727f5df92d344aa98d3ad8948efa92267c6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb3%2F54%2Fb3548edc8d3d71fdbda24993b6fff8825c2d344b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F13%2F03%2F1303e87d5cb4985e12ca5e0bcc92b52ff040bfdc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F12%2F32%2F12322ab3d8d0555e356406c5db3de9c4b2710ac0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5b%2Fb3%2F5bb3db9872bcf37b07e56bf60de44e093c53a7ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 2299
+  },
+  {
+    "_id": "65b010889fec13dbef6a0afc",
+    "id": "a52cf429-3f7b-40d1-b41e-47e7a55ae402",
+    "category": "women",
+    "product_type": "shirt",
+    "title": "Oversized shirt",
+    "description_fit": {
+      "description": "Oversized shirt in woven fabric with a collar, buttons down the front and a double-layered yoke with a box pleat at the back. Dropped shoulders, long sleeves with wide, buttoned cuffs, and a gently rounded hem.",
+      "size": {
+        "XS": {
+          "Width": "1.09 m",
+          "Length": "73 cm"
+        },
+        "S": {
+          "Width": "1.17 m",
+          "Length": "74 cm"
+        },
+        "M": {
+          "Width": "1.23 m",
+          "Length": "75 cm"
+        },
+        "L": {
+          "Width": "1.29 m",
+          "Length": "76 cm"
+        },
+        "XL": {
+          "Width": "1.39 m",
+          "Length": "77 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Loose fit",
+      "neckline": "Turn-down collar"
+    },
+    "color": "Navy blue/Striped",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8b%2Fb7%2F8bb79ab09625035ac64273254ada7dabeeed9808.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8b%2Fe5%2F8be5b2a55e4214f573ed8c41e4d7ebfd859321e5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc5%2F32%2Fc53280fe4be7a53512b35ce3d826a8032a4df165.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F68%2Fa8%2F68a893d7cc2ecdfff53c9d279334f02d2f8efba0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcc%2F71%2Fcc7124319ebe491cea1b76a1b7ba54e8f9425145.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7f%2Ffc%2F7ffc5a7f34c4bbb94c4479c4783308ceb4c99455.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 2299
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af4",
+    "id": "c27be251-4e69-4aeb-a766-dbc01bde66e5",
+    "category": "men",
+    "product_type": "sweater",
+    "title": "Loose Fit Zip-through hoodie",
+    "description_fit": {
+      "description": "Zip-through hoodie in lightweight sweatshirt fabric made from a cotton blend with a soft brushed inside. Jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and wide ribbing at the cuffs and hem. Loose fit for a generous but not oversized silhouette.",
+      "size": {
+        "XS": {
+          "Width": "1.04 m",
+          "Length": "66 cm"
+        },
+        "S": {
+          "Width": "1.12 m",
+          "Length": "67 cm"
+        },
+        "M": {
+          "Width": "1.20 m",
+          "Length": "69 cm"
+        },
+        "L": {
+          "Width": "1.28 m",
+          "Length": "70 cm"
+        },
+        "XL": {
+          "Width": "1.36 m",
+          "Length": "71 cm"
+        },
+        "XXL": {
+          "Width": "1.44 m",
+          "Length": "73 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Loose fit",
+      "neckline": "Hooded jacket"
+    },
+    "color": "Blue",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa1%2Fc7%2Fa1c74b14ad8547f45e0b8d999e3bfabf920e11b6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd7%2F22%2Fd7221ed72d2ab0a8926abbfb7f52618c3cebb341.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F1a%2F60%2F1a60a640d8c2c72268f8d5291f6c1bba00cfb101.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F2f%2F31%2F2f31b95ad93e28920e407e020bed006da6743365.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3f%2F27%2F3f27097af92ef697fffb38948a87751234bd5375.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F23%2Ff9%2F23f948767c6ac92712946cb713e17264e46f47f8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1499
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af5",
+    "id": "6245eecb-af59-43f4-ab37-d31897bdf9e5",
+    "category": "men",
+    "product_type": "sweater",
+    "title": "Loose Fit Hoodie",
+    "description_fit": {
+      "description": "Hoodie in midweight sweatshirt fabric made from a cotton blend with a soft brushed inside. Jersey-lined, drawstring hood, dropped shoulders, long sleeves, a kangaroo pocket and wide ribbing at the cuffs and hem. Loose fit for a generous but not oversized silhouette.",
+      "size": {
+        "XS": {
+          "Width": "1.04 m",
+          "Length": "66 cm"
+        },
+        "S": {
+          "Width": "1.12 m",
+          "Length": "67 cm"
+        },
+        "M": {
+          "Width": "1.20 m",
+          "Length": "69 cm"
+        },
+        "L": {
+          "Width": "1.28 m",
+          "Length": "70 cm"
+        },
+        "XL": {
+          "Width": "1.36 m",
+          "Length": "71 cm"
+        },
+        "XXL": {
+          "Width": "1.44 m",
+          "Length": "73 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Loose fit",
+      "neckline": "Hooded"
+    },
+    "color": "Black",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F60%2F62%2F60629c6b2c3c690c247a6b1bff2d4541f4155d0c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5c%2F70%2F5c70becbd00a13c32a9fcdcdcb8b92f7fb326324.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Faa%2Ff7%2Faaf7b13251e5b747ee56a193fe983850fa9f43a1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7d%2F7c%2F7d7c335a346c7fc1f1c33d17fc99dc10fae43853.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0d%2Ff1%2F0df14dd14c2e4513d32cb1e0dd44505d0c4c20a3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F60%2Fd8%2F60d83a8786b6f2aa5c1d07257f526db35ea0bec2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe1%2F21%2Fe1213aed3000f30788fb54f8a63d7f9e5656a147.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1499
+  },
+  {
+    "_id": "65b010889fec13dbef6a0afb",
+    "id": "cecfa41b-5e60-4345-b9e0-0351195b2f92",
+    "category": "women",
+    "product_type": "shirt",
+    "title": "Oxford shirt",
+    "description_fit": {
+      "description": "Shirt in washed Oxford cotton with a collar, buttons down the front and a yoke with a hanger at the back. Relaxed fit with dropped shoulders, long sleeves with buttoned cuffs, and a rounded hem. Slightly longer at the back.",
+      "size": {
+        "XS": {
+          "Width": "1.09 m",
+          "Length": "73 cm"
+        },
+        "S": {
+          "Width": "1.17 m",
+          "Length": "74 cm"
+        },
+        "M": {
+          "Width": "1.23 m",
+          "Length": "75 cm"
+        },
+        "L": {
+          "Width": "1.29 m",
+          "Length": "76 cm"
+        },
+        "XL": {
+          "Width": "1.39 m",
+          "Length": "77 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Loose fit",
+      "neckline": "Turn-down collar"
+    },
+    "color": "White/Blue striped",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fef%2F16%2Fef16210bb27633997c255a1c45a6463588f398db.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F03%2F49%2F0349be50d2909bce0726c7c1271f1bcf7b3c08de.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F92%2F9f%2F929f2e3ee0756854c851f9752b204805642843b7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F65%2Fd5%2F65d5b437eb2cc3b020174ae235085ef6c8c6ec1c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fab%2Fff%2Fabff57418dd6e055be95339cfe70c6810c7fd216.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1499
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af6",
+    "id": "25545aa9-4d42-4e8f-8446-eb4edd0ff182",
+    "category": "men",
+    "product_type": "jeans",
+    "title": "Straight Regular Jeans",
+    "description_fit": {
+      "description": "5-pocket jeans in cotton denim with a slight stretch for good comfort. Straight leg and a regular fit from the waist to the hem with a comfortable, looser feel around the whole leg. Regular waist and a zip fly. This is denim that lasts.",
+      "size": {
+        "28": {
+          "Width": "76 cm",
+          "Length": "73 cm"
+        },
+        "29": {
+          "Width": "79 cm",
+          "Length": "74 cm"
+        },
+        "30": {
+          "Width": "81 cm",
+          "Length": "74 cm"
+        },
+        "31": {
+          "Width": "84 cm",
+          "Length": "75 cm"
+        },
+        "32": {
+          "Width": "86 cm",
+          "Length": "75 cm"
+        },
+        "33": {
+          "Width": "89 cm",
+          "Length": "76 cm"
+        },
+        "34": {
+          "Width": "91 cm",
+          "Length": "76 cm"
+        },
+        "36": {
+          "Width": "96 cm",
+          "Length": "77 cm"
+        },
+        "38": {
+          "Width": "1.01 m",
+          "Length": "77 cm"
+        },
+        "40": {
+          "Width": "1.11 m",
+          "Length": "77 cm"
+        }
+      },
+      "waist_rise": "Regular waist",
+      "fit": "Regular fit",
+      "concept": "Denim"
+    },
+    "color": "Dark denim blue",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F54%2F96%2F549605949fdf07f526c446f7a3917b1025340695.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3c%2F64%2F3c6443f577589cd08d067d1aaedbba1f0d13f3d4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F20%2F52%2F20522b9a2a26377cdf97a33ebb9061e67ba09c45.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F08%2F57%2F0857c01695462047d69cea4e9ec084add3b31ffb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd3%2F8a%2Fd38a960a7bf34981a83133cc7633c7a6f65560ab.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F13%2F8f%2F138f39d2edec4112be279555621f571dc1326e0f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F65%2F0b%2F650b0df402c8d429005e5adb58aa61eb3a05733f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1799
+  },
+  {
+    "_id": "65b010889fec13dbef6a0aeb",
+    "id": "bc48777f-2019-4163-9e1b-455804b7df2e",
+    "category": "men",
+    "product_type": "tshirt",
+    "title": "Loose Fit Printed T-shirt",
+    "description_fit": {
+      "description": "T-shirt in soft cotton jersey with print motifs, a round, rib-trimmed neckline, dropped shoulders and a straight-cut hem. Loose fit for a generous but not oversized silhouette.",
+      "size": {
+        "XS": {
+          "Width": "100 cm",
+          "Length": "70 cm"
+        },
+        "S": {
+          "Width": "1.08 m",
+          "Length": "72 cm"
+        },
+        "M": {
+          "Width": "1.16 m",
+          "Length": "73 cm"
+        },
+        "L": {
+          "Width": "1.24 m",
+          "Length": "75 cm"
+        },
+        "XL": {
+          "Width": "1.32 m",
+          "Length": "76 cm"
+        },
+        "XXL": {
+          "Width": "1.40 m",
+          "Length": "77 cm"
+        }
+      },
+      "sleevelength": "Short sleeve",
+      "fit": "Loose fit",
+      "neckline": "Round neck"
+    },
+    "color": "Cream/Good Fortune",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fef%2F04%2Fef043cb8fa031c3df221e092ab6e0b0ce5aaf96f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd9%2Fce%2Fd9ce2a4f373511547796143b0daac672f5516033.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcd%2F21%2Fcd21016130c7af58cd43321d2644e5bc0bc186f8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff8%2F6d%2Ff86dc1f11292d2acecb35d08d677484a8199a639.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fdc%2F87%2Fdc87b1259de1782b5d9c149f941191433c258081.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbc%2F1c%2Fbc1cdde098ee3dacf03b8b998b9d617d11e7bca7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1499
+  },
+  {
+    "_id": "65b010889fec13dbef6a0afd",
+    "id": "dd342ef3-e2c4-4793-9b84-5e8594ee6a5d",
+    "category": "women",
+    "product_type": "jeans",
+    "title": "Skinny High Jeans",
+    "description_fit": {
+      "description": "5-pocket jeans in stretch denim with a skinny fit from the waist to the hem. High waist with a zip fly and button.",
+      "size": {
+        "32": {
+          "Width": "57 cm",
+          "Length": "68 cm"
+        },
+        "34": {
+          "Width": "60 cm",
+          "Length": "68 cm"
+        },
+        "36": {
+          "Width": "63 cm",
+          "Length": "69 cm"
+        },
+        "38": {
+          "Width": "66 cm",
+          "Length": "69 cm"
+        },
+        "40": {
+          "Width": "70 cm",
+          "Length": "69 cm"
+        },
+        "42": {
+          "Width": "74 cm",
+          "Length": "69 cm"
+        },
+        "44": {
+          "Width": "78 cm",
+          "Length": "69 cm"
+        },
+        "46": {
+          "Width": "82 cm",
+          "Length": "69 cm"
+        }
+      },
+      "waist_rise": "High waist",
+      "fit": "Skinny fit",
+      "concept": "Everyday Fashion"
+    },
+    "color": "Light denim blue",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F51%2Fab%2F51ab166eb000021f81581132b106d351ed1bf37d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F34%2F73%2F3473f03c773081bbddab0a36b587f36b4f32273f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F46%2F39%2F46396d0d5bfc715eb0ce3a0c0c124ea0f6eb49da.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd3%2F55%2Fd35583c35521a0e2cbb4f9b84c1ccc954ca44fd0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe6%2F58%2Fe65807d41b8802077b94f89b0e32b096c77f04e0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1499
+  },
+  {
+    "_id": "65b010889fec13dbef6a0afa",
+    "id": "83bc2f6b-98c9-41e5-9e02-4388e7ee7e04",
+    "category": "women",
+    "product_type": "sweater",
+    "title": "Printed sweatshirt",
+    "description_fit": {
+      "description": "Top in sweatshirt fabric made from a cotton blend with a print motif on the front and a soft brushed inside. Round, rib-trimmed neckline, low dropped shoulders, long sleeves and ribbing at the cuffs and hem.",
+      "size": {
+        "XS": {
+          "Width": "1.02 m",
+          "Length": "58 cm"
+        },
+        "S": {
+          "Width": "1.10 m",
+          "Length": "60 cm"
+        },
+        "M": {
+          "Width": "1.16 m",
+          "Length": "61 cm"
+        },
+        "L": {
+          "Width": "1.22 m",
+          "Length": "63 cm"
+        },
+        "XL": {
+          "Width": "1.32 m",
+          "Length": "65 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Loose fit",
+      "neckline": "Round neck"
+    },
+    "color": "Dark grey/Paris",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fda%2F0b%2Fda0babccadfec2086638777de232675f4c8de679.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_licence%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5c%2Fd2%2F5cd29427d9506d0e6605a45258c47ea7794c6279.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F86%2F44%2F864451c4e2e0d27e88c41fc57b0d094f7f3e3be7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F18%2F74%2F1874c26f20234e9dfcbafc3e00c977659e92d86f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8b%2Fdb%2F8bdb48ab5dd9267949d53e5f399bc3f09e4c3676.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_licence%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1999
+  },
+  {
+    "_id": "65b010889fec13dbef6a0aec",
+    "id": "3432e25c-141c-49f0-87a4-aa72d5a1bf13",
+    "category": "men",
+    "product_type": "tshirt",
+    "title": "Loose Fit Printed T-shirt",
+    "description_fit": {
+      "description": "T-shirt in soft cotton jersey with print motifs, a round, rib-trimmed neckline, dropped shoulders and a straight-cut hem. Loose fit for a generous but not oversized silhouette.",
+      "size": {
+        "XS": {
+          "Width": "100 cm",
+          "Length": "70 cm"
+        },
+        "S": {
+          "Width": "1.08 m",
+          "Length": "72 cm"
+        },
+        "M": {
+          "Width": "1.16 m",
+          "Length": "73 cm"
+        },
+        "L": {
+          "Width": "1.24 m",
+          "Length": "75 cm"
+        },
+        "XL": {
+          "Width": "1.32 m",
+          "Length": "76 cm"
+        },
+        "XXL": {
+          "Width": "1.40 m",
+          "Length": "77 cm"
+        }
+      },
+      "sleevelength": "Short sleeve",
+      "fit": "Loose fit",
+      "neckline": "Round neck"
+    },
+    "color": "Black/Dragon Deli",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc7%2F39%2Fc7393673591cce18fe8fbb6fcd576300432d8822.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdf%2F06%2Fdf06c28c6183fae76fc2ed6691f80246dde7e5f7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6f%2Ffd%2F6ffd8381098de6cd0097d91e92d5f4897017bdf1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8f%2Fb1%2F8fb1935ee374ec176c055c2192dc5bd7295096c6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa0%2F49%2Fa049b6b9b92c773a848d136931dae7d56a78cf3e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fed%2Fc5%2Fedc58dd389e52a4aeb84209e68b3d6e28ab2ead2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0e%2F01%2F0e01edeb8ef77cdcb7c4db4cb0aab8b1f1f76caf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1499
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af0",
+    "id": "e0158e33-5dcf-4707-814b-bd7eac81a0d4",
+    "category": "men",
+    "product_type": "shirt",
+    "title": "Relaxed Fit Flannel shirt",
+    "description_fit": {
+      "description": "Shirt in soft cotton flannel with a turn-down collar, buttons down the front and a yoke at the back. Relaxed fit with an open chest pocket and long sleeves with buttoned cuffs and a sleeve placket with a link button. Gently rounded hem.",
+      "size": {
+        "XS": {
+          "Width": "1.07 m",
+          "Length": "73 cm"
+        },
+        "S": {
+          "Width": "1.15 m",
+          "Length": "75 cm"
+        },
+        "M": {
+          "Width": "1.23 m",
+          "Length": "77 cm"
+        },
+        "L": {
+          "Width": "1.31 m",
+          "Length": "79 cm"
+        },
+        "XL": {
+          "Width": "1.39 m",
+          "Length": "80 cm"
+        },
+        "XXL": {
+          "Width": "1.47 m",
+          "Length": "81 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Regular fit",
+      "neckline": "Turn-down collar"
+    },
+    "color": "Black/Checked",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff3%2Fc2%2Ff3c2e015e79873e63751e0bb62332b6c74a9601e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F97%2F60%2F9760baae4682c9d97e4884ae4b46cf639d89f326.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb7%2F9c%2Fb79c396113a5b386075015be45024505f32002f5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F44%2F0c%2F440c5f62658eab143a07efa1553e934089dee6a9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F78%2F4b%2F784bf76a332a01335fcd3926c1cfc0c534c6d394.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9a%2F28%2F9a284676a8837aaa72f087d43edbf05dfceb96c1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F19%2Fa5%2F19a51b6f8691e9ca47fe221b8800fd16f5803d7a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1999
+  },
+  {
+    "_id": "65b010889fec13dbef6a0aef",
+    "id": "cc44bbaf-25c1-4380-b34b-38f59e1435dc",
+    "category": "men",
+    "product_type": "tshirt",
+    "title": "Regular Fit Cotton rugby shirt",
+    "description_fit": {
+      "description": "Rugby shirt in soft cotton twill with a collar, concealed button placket and long sleeves with ribbed cuffs. Small slit at each side of the hem. Regular fit for comfortable wear and a classic silhouette.",
+      "size": {
+        "XS": {
+          "Width": "100 cm",
+          "Length": "70 cm"
+        },
+        "S": {
+          "Width": "1.08 m",
+          "Length": "72 cm"
+        },
+        "M": {
+          "Width": "1.16 m",
+          "Length": "73 cm"
+        },
+        "L": {
+          "Width": "1.24 m",
+          "Length": "75 cm"
+        },
+        "XL": {
+          "Width": "1.32 m",
+          "Length": "76 cm"
+        },
+        "XXL": {
+          "Width": "1.40 m",
+          "Length": "77 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Regular fit",
+      "neckline": "Turn-down collar"
+    },
+    "color": "Cream/Dark green striped",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F6b%2F2c%2F6b2cbad00db1e15b06fb297dd660183a2a947e55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0b%2F53%2F0b5308cefc798cdbf7bd0f48407bf15044c6a43c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa9%2Fab%2Fa9abe5c10731c1b7cd7ddc82c351c35cb1f060b2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcf%2F72%2Fcf72bbd7e279ebcbbb248043d0f936ee621b78ac.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F28%2F57%2F2857c089ae9e92f0e5e1ec043dcf8811067779a9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F24%2F2f%2F242f2a6e8f12fcd181082f10196219159ced076a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 2299
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af8",
+    "id": "f487b71e-8a5c-4938-802d-851858c52caf",
+    "category": "women",
+    "product_type": "tshirt",
+    "title": "Oversized T-shirt",
+    "description_fit": {
+      "description": "Oversized T-shirt in soft cotton jersey with a rib-trimmed neckline and low dropped shoulders.",
+      "size": {
+        "XXS": {
+          "Width": "1.06 m",
+          "Length": "71 cm"
+        },
+        "XS": {
+          "Width": "1.10 m",
+          "Length": "72 cm"
+        },
+        "S": {
+          "Width": "1.10 m",
+          "Length": "72 cm"
+        },
+        "M": {
+          "Width": "1.18 m",
+          "Length": "74 cm"
+        },
+        "L": {
+          "Width": "1.28 m",
+          "Length": "77 cm"
+        },
+        "XL": {
+          "Width": "1.34 m",
+          "Length": "78 cm"
+        },
+        "XXL": {
+          "Width": "1.40 m",
+          "Length": "80 cm"
+        }
+      },
+      "sleevelength": "Short sleeve",
+      "fit": "Oversized",
+      "neckline": "Round neck"
+    },
+    "color": "White",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Feb%2Fa5%2Feba5ae89603cdb90495d622cfa033f5e9c4766c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_basics_tops_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2F6d%2F836db42f1a2d6247aedbb8828b391217e79dfea9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F21%2F42%2F2142c1e3ff47311216ec905f1e1c19c37d4522da.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa0%2F25%2Fa025d732b0e54abdad2425c19da27a5d6902ac51.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_basics_tops_shortsleeve%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 699
+  },
+  {
+    "_id": "65b010889fec13dbef6a0af3",
+    "id": "dad8939a-3074-497c-9951-f4b2e12be22d",
+    "category": "men",
+    "product_type": "sweater",
+    "title": "Regular Fit Fine-knit jumper",
+    "description_fit": {
+      "description": "Regular-fit jumper in a soft, fine knit with a round, rib-trimmed neckline, long sleeves and ribbing at the cuffs and hem.",
+      "size": {
+        "XS": {
+          "Width": "96 cm",
+          "Length": "64 cm"
+        },
+        "S": {
+          "Width": "1.04 m",
+          "Length": "66 cm"
+        },
+        "M": {
+          "Width": "1.12 m",
+          "Length": "67 cm"
+        },
+        "L": {
+          "Width": "1.20 m",
+          "Length": "69 cm"
+        },
+        "XL": {
+          "Width": "1.28 m",
+          "Length": "70 cm"
+        },
+        "XXL": {
+          "Width": "1.36 m",
+          "Length": "71 cm"
+        }
+      },
+      "sleevelength": "Long sleeve",
+      "fit": "Regular fit",
+      "neckline": "Round neck"
+    },
+    "color": "Beige marl",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F27%2F0f%2F270f3741cc93b813636ae95de87808c05b039b1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5b%2F93%2F5b9307acef351915a6ec2fbbbd24e6530f23a64a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F22%2F2c%2F222cd1a19a31550606012c67dbaf4a0138f8ec44.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff1%2F7b%2Ff17b0f893ed17b6afb1b4e2d34cf6a9666bfa7c5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff9%2F70%2Ff970eabbe4fd5ad36956768aceef6ab1a613ba1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_cardigansjumpers_jumpers%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 2699
+  },
+  {
+    "_id": "65b010889fec13dbef6a0afe",
+    "id": "5072bf67-c898-4f8d-abbc-f84ce9b08cd3",
+    "category": "women",
+    "product_type": "jeans",
+    "title": "Slim Mom High Ankle Jeans",
+    "description_fit": {
+      "description": "5-pocket, ankle-length jeans in slightly stretchy denim with an extra-high waist, zip fly and gently tapered legs.",
+      "size": {
+        "32": {
+          "Width": "60 cm",
+          "Length": "64 cm"
+        },
+        "34": {
+          "Width": "63 cm",
+          "Length": "64 cm"
+        },
+        "36": {
+          "Width": "67 cm",
+          "Length": "64 cm"
+        },
+        "38": {
+          "Width": "71 cm",
+          "Length": "64 cm"
+        },
+        "40": {
+          "Width": "75 cm",
+          "Length": "64 cm"
+        },
+        "42": {
+          "Width": "79 cm",
+          "Length": "64 cm"
+        },
+        "44": {
+          "Width": "84 cm",
+          "Length": "64 cm"
+        },
+        "46": {
+          "Width": "88 cm",
+          "Length": "64 cm"
+        }
+      },
+      "waist_rise": "High waist",
+      "fit": "Slim fit",
+      "concept": "Everyday Fashion"
+    },
+    "color": "Dark denim blue",
+    "images": [
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fbc%2F84%2Fbc8490c84b8d9f88ff539b28ce503a54c3c5bc79.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_loose%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F67%2F82%2F678233868864aa39130435fb16953b68e11f001b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fac%2F33%2Fac33c033d44e6e37aabfa44cf7d06bfc5545b8ef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4e%2Ffd%2F4efdb7647fd9619d405ed1b31f664d47bd2c7c7b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fc2%2Ffa%2Fc2fa24f97a54e66881a302da90466683fdfeff9f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F06%2F18%2F06180d4576bcdfe29d5715af7c9449fa95e0764b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_loose%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    "price": 1999
+  }
+]

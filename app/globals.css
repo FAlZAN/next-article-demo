@@ -1,0 +1,141 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  section {
+    @apply p-6;
+  }
+}
+
+@layer utilities {
+  .flex-row-center {
+    @apply flex justify-center items-center;
+  }
+
+  .flex-col-center {
+    @apply flex flex-col justify-center items-center;
+  }
+
+  .font-muted {
+    @apply text-black/60;
+  }
+}
+
+@layer components {
+  .header {
+    @apply p-6  flex justify-between items-center  lg:p-12  lg:grid lg:grid-cols-3;
+  }
+
+  .logo {
+    @apply text-4xl font-semibold  lg:mx-auto  lg:col-start-2;
+  }
+
+  .bag {
+    @apply relative  lg:ml-auto  lg:col-start-3;
+  }
+
+  .counter {
+    @apply bg-emerald-500 text-white w-5 h-5 text-sm font-medium rounded-full  flex justify-center items-center  absolute -top-3 left-2;
+  }
+
+  .card {
+    @apply w-full border border-black/10 rounded-lg;
+  }
+
+  .product_image {
+    @apply w-full overflow-hidden  relative;
+  }
+
+  .product_image_complete {
+    @apply md:w-3/5 md:ml-auto;
+  }
+
+  .product_details {
+    @apply p-4   flex flex-col gap-4;
+  }
+
+  .product_details_complete {
+    @apply w-full p-0 md:w-3/4 lg:w-3/5;
+  }
+
+  .title_price {
+    @apply font-semibold capitalize  flex justify-between;
+  }
+
+  .product_size {
+    @apply flex gap-2;
+  }
+
+  .product_size_label {
+    @apply w-9 h-9  text-xs font-semibold rounded cursor-pointer  flex justify-center items-center;
+  }
+
+  .product_size_label_active {
+    @apply bg-black text-white;
+  }
+
+  .horizontal_rule {
+    @apply bg-black/10 w-full h-[0.5px];
+  }
+
+  .product_buttons {
+    @apply flex gap-2;
+  }
+
+  .product_card_bag {
+    @apply card max-w-96 p-4 mx-auto  flex gap-4;
+  }
+
+  .product_image_bag {
+    @apply w-1/4;
+  }
+
+  .product_details_bag {
+    @apply w-full  flex flex-col gap-3;
+  }
+
+  .product_size_bag {
+    @apply px-1 border border-black/10 text-sm font-semibold rounded-[4px] outline-none;
+  }
+
+  .product_quantity {
+    @apply w-fit border border-black/10 text-sm font-semibold rounded-[4px]  flex;
+  }
+
+  .product_quantity_button {
+    @apply w-7 h-7  flex justify-center items-center;
+  }
+
+  .product_quantity_count {
+    @apply w-7 h-7 border-x border-black/10  flex justify-center items-center;
+  }
+
+  .empty_bag {
+    @apply h-[50vh]  flex-col-center gap-6;
+  }
+
+  .empty_bag_title {
+    @apply text-2xl font-muted font-semibold text-center;
+  }
+
+  .empty_bag_link {
+    @apply mt-6 px-4 font-semibold  flex-row-center gap-4;
+  }
+
+  .primary_button {
+    @apply bg-black text-white w-full py-2 text-sm font-semibold rounded;
+  }
+
+  .secondary_button {
+    @apply w-full py-2 text-sm font-semibold border border-black/10 rounded;
+  }
+
+  .remove_button {
+    @apply ml-auto text-red-500 text-xs;
+  }
+
+  .footer {
+    @apply p-6 text-xs font-semibold   flex justify-center;
+  }
+}
